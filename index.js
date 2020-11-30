@@ -3,7 +3,7 @@
  */
 module.exports = function( THREE ){
 
-RoundedBoxGeometry = function ( 
+var RoundedBoxGeometry = function ( 
 	width , 
 	height , 
 	depth , 
